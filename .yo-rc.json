@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.jhipstertraining"
+    },
+    "jhipsterVersion": "6.1.2",
+    "applicationType": "monolith",
+    "baseName": "jhipsterTraining",
+    "packageName": "com.jhipstertraining",
+    "packageFolder": "com/jhipstertraining",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MGZlNGUyNjRjYjg3M2ZlMTNlYmRhNmViZmI4MTQxNDA5ZDUyOGQwODE2MTdkNWQ4OGIwZWZkNDE1ZTEyYTA0MzRjODI2MjA3OTc0MjRmYWZhZjkzOGYxODExYjNjNTUxNzRkNDgwMDllYTc1M2U3YjlkZjg5MjIzZjcwZjk0MGU=",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "testFrameworks": [
+      "protractor"
+    ],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false
+  }
+}
