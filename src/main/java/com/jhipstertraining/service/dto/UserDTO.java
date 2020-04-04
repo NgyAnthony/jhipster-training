@@ -5,9 +5,6 @@ import com.jhipstertraining.config.Constants;
 import com.jhipstertraining.domain.Authority;
 import com.jhipstertraining.domain.User;
 
-import javax.validation.constraints.Email;
-import javax.validation.constraints.NotBlank;
-
 import javax.validation.constraints.*;
 import java.time.Instant;
 import java.util.Set;
